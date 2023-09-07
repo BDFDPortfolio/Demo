@@ -14,9 +14,9 @@
 
 ## About This Portfolio/Project Details
 
-Poker Side Game01 - Rabbit Bet
+Poker Side Game01 - Rabbit Betting
 
-**Project Link:** [Poker Side Game - Rabbit Bet](https://bdfdportfolio.tk/Game01_Rabbit-Betting/)
+**Project Link:** [Poker Side Game - Rabbit Betting](https://bdfdportfolio.tk/Game01_Rabbit-Betting/)
 
 ## Project Description:
 
