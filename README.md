@@ -16,7 +16,7 @@
 
 Poker Side Game01 - Rabbit Betting
 
-**Project Link:** [Poker Side Game - Rabbit Betting](https://bdfdportfolio.tk/Game01_Rabbit-Betting/)
+**Project Link:** [Poker Side Game - Rabbit Betting](https://bdfdportfolio.github.io/SideGame01_Poker_Rabbit-Betting/)
 
 ## Project Description:
 
@@ -32,7 +32,7 @@ Description: Rabbit Game
 **Projects:** Poker Side Bet Game
 
 **Reference:**  
-Demo: <a href="https://bdfdportfolio.tk/Game01_Rabbit-Betting/">Demo Website Link</a>  
+Demo: <a href="https://bdfdportfolio.github.io/SideGame01_Poker_Rabbit-Betting/">Demo Website Link</a>  
  <br>
 
 <div align="center">
